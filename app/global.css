@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: rgb(35, 115, 169);
+  }
+  
+  header {
+    padding: 10px;
+    background-color: rgba(219, 51, 51, 0.993);
+    color: rgb(131, 245, 226);
+    text-align: center;
+  }
+  
+  main {
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1, h2 {
+    margin: 0;
+  }
+  
